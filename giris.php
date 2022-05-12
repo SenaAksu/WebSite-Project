@@ -13,7 +13,7 @@
 		if ($email=="b211210008@sakarya.edu.tr" && $sifre=="b211210008")
 		{
 			echo "<script>alert(' Hoşgeldiniz B211210008 ')</script>";	
-			header("Refresh: 1;  url=anasayfa.html");
+			header("Refresh: 1;  url=index.html");
 			
 		}
 		else		{ 
