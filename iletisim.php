@@ -63,7 +63,7 @@ sidenav stilini değiştirin
 
   &times;</a>
 
-  <a href="anasayfa.html">Anasayfa</a>
+  <a href="index.html">Anasayfa</a>
   <a href="hakkimda.html">Hakkımda</a>
   <a href="ilgialanlarim.html">İlgi Alanlarım</a>
   <a href="ozgecmis.html">Özgeçmiş</a>
