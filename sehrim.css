@@ -263,6 +263,13 @@ text-align: center;
 
   }
 
+  img {
+	max-width: 100%;
+	height:auto;
+	box-sizing:border-box;
+	display:block;
+	}
+
    
 .alt{
 	text-align: center;
