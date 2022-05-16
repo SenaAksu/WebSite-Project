@@ -91,6 +91,14 @@ color: white;
     padding: 0 30px 50px 10px;
   }
  
+  img {
+    max-width: 100%;
+    height:auto;
+    box-sizing:border-box;
+    display:block;
+    }
+
+
 .alt{
   text-align: center;
   color: white;
